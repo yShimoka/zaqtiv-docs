@@ -5,9 +5,9 @@ Bienvenue dans la documentation ZaqTiv. Vous retrouverez ici l'ensemble des ress
 ## Table des matières
 
 1. L'utilisation de la librairie
-2. [L'utilisation de l'éditeur](#2.-l'éditeur)
-    1. [Créer un nouveau ZaqTiv](#2.1.-créer-son-zaqtiv)
-    2. [Créer une grande étape](#2.2-nomenclature)
+2. [L'utilisation de l'éditeur](#2-l'éditeur)
+    1. [Créer un nouveau ZaqTiv](#21-créer-son-zaqtiv)
+    2. [Créer une grande étape](#22-nomenclature)
 
 ## 1. La librairie
 
