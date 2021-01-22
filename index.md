@@ -7,7 +7,7 @@ Bienvenue dans la documentation ZaqTiv. Vous retrouverez ici l'ensemble des ress
 1. L'utilisation de la librairie
 2. [L'utilisation de l'éditeur](#2-l'éditeur)
     1. [Créer un nouveau ZaqTiv](#21-créer-son-zaqtiv)
-    2. [Créer une grande étape](#22-nomenclature)
+    2. [Créer une grande étape](#22-grandes-étapes)
 
 ## 1. La librairie
 
@@ -16,19 +16,21 @@ Bienvenue dans la documentation ZaqTiv. Vous retrouverez ici l'ensemble des ress
 ### 2.1. Créer son Zaqtiv
 Connectez-vous, et passez en mode édition. Cliquez sur “_créer un nouveau zaqtiv_”. Définissez son titre, son icône, ainsi que sa ou ses catégories. Valider pour passer à la partie éditeur.
 
-### 2.2. Nomenclature
-Les grandes étapes :
-Ajoutez une grande étape en cliquant sur “+”, puis nommez-les en cliquant sur le titre.
-Pour changer l’ordre, cliquez et déplacez celles-ci.
-Pour en supprimer, cliquez sur la corbeille en haut à droite.
+### 2.2. Grandes Étapes
+Ajoutez une grande étape en cliquant sur “+”, puis nommez-la en cliquant sur son titre.
 
-Les points clés : 
-Ajoutez un point clé, en cliquant sur “+” au sein d’une grande étape. Cliquez dessus pour le nommer et avoir accès aux options.
-Pour changer l’ordre, cliquez et déplacez celles-ci.
-Pour en supprimer, cliquez sur la corbeille en haut à droite.
-La “raison” à entrer est l’explication courte du point clé, elle sera affichée durant la première étape de jeu, où tout est vu en détail. Celle-ci est optionnelle.
+Pour la supprimer, cliquez sur la corbeille en haut à droite.
 
-L’action :
+
+### 2.3. Points Clés
+Ajoutez un point clé en cliquant sur “+” au sein d’une grande étape, puis nommez-le en cliquant sur son titre.
+
+Afin d'ajouter une raison pour ce point clé, c'est à dire un court texte permettant d'apporter plus de détails au point clé, vous pouvez cliquer sur le crayon situé à la droite du titre. (_Ceci est optionel_)
+
+Pour le supprimer, cliquez sur la corbeille en haut à droite.
+
+### 2.4. Actions
+Ajoutez une action en cliquant sur "+" au sein d'un point clé.
 choisissez l’action à intégrer au point clé :
 	⁃	le sablier (l’utilisateur attend durant x secondes)
 	⁃	le clic (l’utilisateur clique à un endroit précis)
