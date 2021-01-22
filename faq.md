@@ -1,5 +1,7 @@
 # ZaqTiv - Foire aux Questions
 
+[Revenir à l'index](/index.md)
+
 ## Table des matières
 
 1. [Éditeur](#éditeur)
@@ -16,3 +18,15 @@ Il existe trois cas de figure:
 
 ## Ma question n'est pas adressée ici, que faire ?
 Si vous n'avez toujours pas trouvé de réponse à votre question, venez nous la poser directement sur le channel [#questions]() de notre [serveur Discord]().
+
+<a 
+    href="#zaqtiv---foire-aux-questions"
+    style="
+        position: fixed; 
+        bottom: 0; 
+        right: 0; 
+        background-color: #d3c9ba;
+        padding: 5px 10px;
+        color: white;
+        font-weight: bold;
+">↑ Revenir au début ↑</a>
