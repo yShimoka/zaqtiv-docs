@@ -6,15 +6,15 @@ _Vous avez une question qui n'a pas de réponse ici ? Visitez notre [Foire aux Q
 
 ## Table des matières
 
-1. [L'utilisation de l'éditeur](#1-léditeur)
-    1. [Créer un nouveau ZaqTiv](#11-créer-son-zaqtiv)
-    2. [Les grandes étapes](#12-grandes-étapes)
-    3. [Les points clés](#13-points-clés)
-    4. [Les actions](#14-actions)
-        1. [La timeline](#141-la-timeline)
-        2. [L'aperçu](#142-laperçu)
-        3. [L'inspecteur](#143-linspecteur)
-
+#### 1. [L'utilisation de l'éditeur](#1-léditeur)
+#### &nbsp;&nbsp;1.1. [Créer un nouveau ZaqTiv](#11-créer-son-zaqtiv)
+#### &nbsp;&nbsp;1.2. [Les grandes étapes](#12-grandes-étapes)
+#### &nbsp;&nbsp;1.3. [Les points clés](#13-points-clés)
+#### &nbsp;&nbsp;1.4. [Les actions](#14-actions)
+#### &nbsp;&nbsp;&nbsp;&nbsp;1.4.1. [La timeline](#141-la-timeline)
+#### &nbsp;&nbsp;&nbsp;&nbsp;1.4.2. [L'aperçu](#142-laperçu)
+#### &nbsp;&nbsp;&nbsp;&nbsp;1.4.3. [L'inspecteur](#143-linspecteur)
+<br/>
 
 ## 1. L'éditeur
 
