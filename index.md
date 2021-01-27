@@ -19,15 +19,18 @@ _Vous avez une question qui n'a pas de réponse ici ? Visitez notre [Foire aux Q
 ## 1. L'éditeur
 
 ### 1.1. Créer son ZaqTiv
+![Tutoriel-Image01][1]
 Connectez-vous, et passez en mode édition. Cliquez sur “_créer un nouveau ZaqTiv_”. Définissez son titre, son icône, ainsi que sa ou ses catégories. Valider pour passer à la partie éditeur.
 
 ### 1.2. Grandes Étapes
+![Tutoriel-Image02][2]
 Ajoutez une grande étape en cliquant sur “+”, puis nommez-la en cliquant sur son titre.
 
 Pour la supprimer, cliquez sur la corbeille en haut à droite.
 
 
 ### 1.3. Points Clés
+![Tutoriel-Image03][3]
 Ajoutez un point clé en cliquant sur “+” au sein d’une grande étape, puis nommez-le en cliquant sur son titre.
 
 Afin d'ajouter une raison pour ce point clé, c'est à dire un court texte permettant d'apporter plus de détails au point clé, vous pouvez cliquer sur le crayon situé à la droite du titre. (_Ceci est optionnel_)
@@ -35,11 +38,13 @@ Afin d'ajouter une raison pour ce point clé, c'est à dire un court texte perme
 Pour le supprimer, cliquez sur la corbeille en haut à droite.
 
 ### 1.4. Actions
+![Tutoriel-Image04][4]
 Ajoutez une action en cliquant sur "+" au sein d'un point clé. En cliquant dessus, vous aurez alors accès à l'éditeur d'actions.
 
 Dans cet éditeur vous retrouverez trois sections:
 
 #### 1.4.1. La timeline
+![Tutoriel-Image05][5]
 La _timeline_ décrit l'ensemble des images qui vont défiler au fur et à mesure de l'avancée de l'action. Elle est ainsi composée d'une suite d'images (Labellés de `A` à `Z`) que vous pourrez ensuite entrer directement depuis votre smartphone.
 
 Il vous est possible d'insérer une image entre deux autres à tout moment, même lors de la prise de vue.
@@ -65,6 +70,7 @@ Il existe 5 types d'action différentes :
 
 ##### 1.4.3.2. Les éléments optionnels
 
+![Tutoriel-Image06][6]
 Vous pouvez en ajouter autant que besoin dans vos points clés. Il existe actuellement deux types d'éléments optionnels:
 - La **Bulle de texte**: Affiche un texte donné sur l'écran.
 - L'**Image**: Affiche une image sur l'écran.
@@ -82,3 +88,12 @@ Chaque élément optionnel est manipulé directement sur l'_[aperçu](#142-laper
         color: white;
         font-weight: bold;
 ">↑ Revenir au début ↑</a>
+
+[1]:(assets/tuto_zaqtiv.jpg)
+[2]:(assets/tuto_zaqtiv2.jpg)
+[3]:(assets/tuto_zaqtiv3.jpg)
+[4]:(assets/tuto_zaqtiv4.jpg)
+[5]:(assets/tuto_zaqtiv5.jpg)
+[6]:(assets/tuto_zaqtiv6.jpg)
+[7]:(assets/tuto_zaqtiv7.jpg)
+[8]:(assets/tuto_zaqtiv8.jpg)

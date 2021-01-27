@@ -11,6 +11,8 @@
 ## Éditeur
 ### Certains éléments apparaissent en rouge. Pourquoi ?
 Tous les éléments en couleur rouge sont incomplets.
+
+![Tutoriel-Image07][7]
 Il existe trois cas de figure:
 - Une grande étape ou un point clé n'a pas de titre.
 - Un point clé n'a pas de raison (et l'encart de raison n'a jamais été ouvert.)
@@ -30,3 +32,5 @@ Si vous n'avez toujours pas trouvé de réponse à votre question, venez nous la
         color: white;
         font-weight: bold;
 ">↑ Revenir au début ↑</a>
+
+[7]:(assets/tuto_zaqtiv7.jpg)
