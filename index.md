@@ -89,11 +89,11 @@ Chaque élément optionnel est manipulé directement sur l'_[aperçu](#142-laper
         font-weight: bold;
 ">↑ Revenir au début ↑</a>
 
-[1]:(assets/tuto_zaqtiv.jpg)
-[2]:(assets/tuto_zaqtiv2.jpg)
-[3]:(assets/tuto_zaqtiv3.jpg)
-[4]:(assets/tuto_zaqtiv4.jpg)
-[5]:(assets/tuto_zaqtiv5.jpg)
-[6]:(assets/tuto_zaqtiv6.jpg)
-[7]:(assets/tuto_zaqtiv7.jpg)
-[8]:(assets/tuto_zaqtiv8.jpg)
+[1]:assets/tuto_zaqtiv.jpg
+[2]:assets/tuto_zaqtiv2.jpg
+[3]:assets/tuto_zaqtiv3.jpg
+[4]:assets/tuto_zaqtiv4.jpg
+[5]:assets/tuto_zaqtiv5.jpg
+[6]:assets/tuto_zaqtiv6.jpg
+[7]:assets/tuto_zaqtiv7.jpg
+[8]:assets/tuto_zaqtiv8.jpg
